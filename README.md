@@ -1,4 +1,4 @@
-# Klasifikasi-Aspek-Individual-dalam-Penerimaan-Aplikasi-Kesehatan-dengan-BiLSTM
+# Klasifikasi Aspek Individual dalam Penerimaan Aplikasi Kesehatan dengan BiLSTM
 
 Penelitian ini bertujuan untuk mengidentifikasi dan mengklasifikasikan faktor-faktor individu yang memengaruhi penerimaan aplikasi kesehatan di Kabupaten Bandung. Pendekatan yang digunakan melibatkan Natural Language Processing (NLP) untuk analisis data wawancara, diikuti oleh pemodelan menggunakan algoritma deep learning Bidirectional Long Short-Term Memory (BiLSTM).
 
